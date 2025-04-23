@@ -8,7 +8,7 @@
 
 ## 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unggun&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=unggun)](https://git.io/streak-stats)
 
 ## 🛠 Skills
 <div>
